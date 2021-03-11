@@ -1,0 +1,18 @@
+Traveler file header: 
+    removed dots at end of line and changed NOT TRAVELLER to NotTRAVELLER
+    # Sub-nuclear Localization Prediction using LocNuclei
+    # NOTATION Protein Id: Fasta sequences Id truncated by whitespace
+    # NOTATION Localization: Predicted sub-nuclear localization class
+    # NOTATION Source: s == svm, b == blast
+    # NOTATION Reliability Index (RI) between 0 and 100
+
+
+Subcellular prediction file header:
+    # Sub-nuclear Localization Prediction using LocNuclei
+    # NOTATION Protein Id: Fasta sequences Id truncated by whitespace
+    # NOTATION Localization: Predicted sub-nuclear localization class
+    # NOTATION Source: s == svm, b == blast
+    # NOTATION Reliability Index (RI) between 0 and 100
+
+
+what threshold should i use for RI column values?
